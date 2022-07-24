@@ -5,7 +5,7 @@
 # clone the repo
 $ git clone https://github.com/HarpocratesSecurity/Harpocrates
 
-# change the working directory to sherlock
+# change the working directory to Harpocrates
 $ cd Harpocrates
 
 # install the requirements
